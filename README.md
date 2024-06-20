@@ -4,7 +4,7 @@ This regularly updated dataset includes the latest available .com one-word domai
 
 > [!TIP]
 > This dataset provide you 10,000 high quality domains.
-> If you need more, access the full list of domains and filter them on **[unique.domains](https://unique.domains)** (Available filters: keywords, industry, popularity, brandability, sentiment & price)
+> If you need more, access the full list of domains and filter them on **[unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.com&utm_content=description.top)** (Available filters: keywords, industry, popularity, brandability, sentiment & price)
 
 # What's Included in the Dataset
 
@@ -44,9 +44,9 @@ This regularly updated dataset includes the latest available .com one-word domai
 - **Domain Flipping**: Identify and purchase undervalued .com domains to resell at a profit.
 - **Portfolio Expansion**: Enhance your domain investment portfolio with premium one-word .com domains.
 
-# Get More Domains on [unique.domains](https://unique.domains)
+# Get More Domains on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.com&utm_content=description.bottom)
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/com-oneword-domains/blob/main/unique.domains.png?raw=true)](https://unique.domains)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/com-oneword-domains/blob/main/unique.domains.png?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.com&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
