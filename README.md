@@ -1,6 +1,6 @@
 # .com One-Word Domain Names: Daily Updated List of Available Domains
 
-Stay ahead of the competition with our constantly updated dataset of available .com one-word domain names. This exclusive list provides you with the latest available domains, complete with prices and direct buy links.
+This regularly updated dataset includes the latest available .com one-word domains, as well as prices, purchase links and a list of sectors attributed to the domain.
 
 > [!TIP]
 > This dataset provide you 10,000 high quality domains.
