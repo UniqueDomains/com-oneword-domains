@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.COM one word domains]
 | ABCtransporter.com  | resell    | 43       | 72%    | 15     | GoDaddy.com, LLC                     | 01/01/2014 11:43 | 01/01/2026 11:43 |
 | abdicable.com       | resell    | 50       | 1%     | 9      | GoDaddy.com, LLC                     | 03/06/2020 04:46 | 03/06/2026 04:46 |
 | abdomen.com         | resell    | 66       | 76%    | 7      | Sav.com, LLC                         | 01/06/2001 10:33 | 01/06/2026 10:33 |
-| abdominal.com       | resell    | 82       | 2%     | 9      | GoDaddy.com, LLC                     | 01/12/1999 13:51 | 01/12/2026 13:51 |
+| abdominal.com       | resell    | 82       | 1%     | 9      | GoDaddy.com, LLC                     | 01/12/1999 13:51 | 01/12/2026 13:51 |
 | abdominalcavity.com | available | 54       | 72%    | 16     |                                      |                  |                  |
 | abducting.com       | resell    | 50       | 1%     | 9      | GoDaddy.com, LLC                     | 22/04/2004 10:45 | 22/04/2026 10:45 |
 | Abdulmalik.com      | resell    | 46       | 84%    | 10     | Sav.com, LLC                         | 23/12/2010 19:51 | 23/12/2025 19:51 |
