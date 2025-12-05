@@ -32,12 +32,12 @@ If you want to search & filters the complete database of [.COM one word domains]
 | ABCtransporter.com  | resell    | 43       | 72%    | 15     | GoDaddy.com, LLC                     | 01/01/2014 11:43 | 01/01/2026 11:43 |
 | abdicable.com       | resell    | 50       | 1%     | 9      | GoDaddy.com, LLC                     | 03/06/2020 04:46 | 03/06/2026 04:46 |
 | abdomen.com         | resell    | 66       | 76%    | 7      | Sav.com, LLC                         | 01/06/2001 10:33 | 01/06/2026 10:33 |
-| abdominal.com       | resell    | 82       | 1%     | 9      | GoDaddy.com, LLC                     | 01/12/1999 13:51 | 01/12/2026 13:51 |
+| abdominal.com       | resell    | 82       | 5%     | 9      | GoDaddy.com, LLC                     | 01/12/1999 13:51 | 01/12/2026 13:51 |
 | abdominalcavity.com | available | 54       | 72%    | 16     |                                      |                  |                  |
 | abducting.com       | resell    | 50       | 1%     | 9      | GoDaddy.com, LLC                     | 22/04/2004 10:45 | 22/04/2026 10:45 |
 | Abdulmalik.com      | resell    | 46       | 84%    | 10     | Sav.com, LLC                         | 23/12/2010 19:51 | 23/12/2025 19:51 |
 | Abertsquirrel.com   | available | 54       | 72%    | 14     |                                      |                  |                  |
-| abhorrent.com       | resell    | 54       | 1%     | 9      | Rabbitsfoot.com LLC d/b/a Oxygen.nyc | 25/06/2005 18:24 | 25/06/2026 18:24 |
+| abhorrent.com       | resell    | 54       | 3%     | 9      | Rabbitsfoot.com LLC d/b/a Oxygen.nyc | 25/06/2005 18:24 | 25/06/2026 18:24 |
 | abhydrolase.com     | available | 64       | 4%     | 11     |                                      |                  |                  |
 | abibliophobia.com   | available | 64       | 4%     | 13     |                                      |                  |                  |
 | abidden.com         | available | 50       | 4%     | 7      |                                      |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.COM one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
