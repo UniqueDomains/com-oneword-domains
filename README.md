@@ -1,22 +1,22 @@
-# Available .COM One-Word Domains (17,930)
+# Available .COM One-Word Domains (18,250)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C930%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C250%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .com one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,930 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **18,250 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 17,930 domains
+**Public extract:** 1,000 rows · **Live catalog:** 18,250 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/com`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .COM one-word domain c
 
 ### Files
 
-- `com.csv` — public CSV extract (10,000 rows)
-- `com.json` — public JSON extract (10,000 rows)
+- `com.csv` — public CSV extract (1,000 rows)
+- `com.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| dogsledmail.com      | available | $12.99        | $17.99        | 90             | 72     | 12     | name.com                                    |
-| mary.com             | resell    | $1,149,999.99 | $17.99        | 74             | 92     | 4      | Dynadot Inc                                 |
-| dogsick.com          | premium   | $3,321.20     | $17.99        | 90             | 72     | 7      | name.com                                    |
-| Mycenean.com         | available | $16.98        | —             | 80             | 72     | 8      | namecheap                                   |
-| safespace.com        | resell    | $284,625      | $17.99        | 70             | 92     | 10     | GoDaddy.com, LLC                            |
-| halfrest.com         | premium   | $9,200        | $17.99        | 56             | 72     | 9      | name.com                                    |
-| bilobate.com         | available | $12.99        | $19.99        | 76             | 72     | 8      | name.com                                    |
-| hardreset.com        | resell    | $22,871.20    | $17.99        | 64             | 92     | 10     | Dynadot Inc                                 |
-| alignmenttax.com     | premium   | $115,000      | $17.99        | 52             | 72     | 13     | name.com                                    |
-| makeflexible.com     | available | $12.99        | $17.99        | 72             | 72     | 13     | name.com                                    |
-| iraq.com             | resell    | $1,149,999.99 | $17.99        | 60             | 92     | 4      | KuwaitNet General Trading co.               |
-| palmsugar.com        | premium   | $13,901.20    | $17.99        | —              | 72     | 10     | Annulet LLC                                 |
-| basketballdom.com    | available | $12.99        | $19.99        | 72             | 72     | 13     | name.com                                    |
-| aitch.com            | resell    | $177,675      | $19.99        | 54             | 92     | 5      | GoDaddy.com, LLC                            |
-| marketplace.com      | premium   | $17,767,500   | —             | 80             | 44     | 11     | GoDaddy Online Services Cayman Islands Ltd. |
-| leavewellalone.com   | available | $12.99        | $17.99        | 72             | 72     | 16     | name.com                                    |
-| mushroom.com         | resell    | $1,149,999.99 | $17.99        | 102            | 88     | 8      | GoDaddy.com, LLC                            |
-| compound.com         | premium   | $5,685,600    | —             | 77             | 26     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
-| bestevidencerule.com | available | $12.99        | $19.99        | 72             | 72     | 18     | name.com                                    |
-| partial.com          | resell    | $575,000      | $17.99        | 100            | 88     | 7      | GoDaddy.com, LLC                            |
+| domain               | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
+| -------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| affricative.com      | available | $12.99      | $17.99        | 66             | 72     | 11     | name.com                                    |
+| partial.com          | resell    | $575,000    | $17.99        | 100            | 88     | 7      | GoDaddy.com, LLC                            |
+| compound.com         | premium   | $5,685,600  | —             | 77             | 26     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
+| abigailship.com      | available | $12.99      | $17.99        | 64             | 72     | 11     | name.com                                    |
+| saviour.com          | resell    | $64,630     | $17.99        | 68             | 88     | 7      | GoDaddy.com, LLC                            |
+| saving.com           | premium   | $1,776,750  | —             | 79             | 19     | 6      | GoDaddy.com, LLC                            |
+| cottageorchard.com   | available | $12.99      | $17.99        | 60             | 72     | 15     | name.com                                    |
+| reproduce.com        | resell    | $343,447.50 | $17.99        | 66             | 84     | 9      | Network Solutions, LLC                      |
+| stepup.com           | premium   | $177,779.24 | —             | 78             | 19     | 7      | Annulet LLC                                 |
+| airbrasion.com       | available | $12.99      | $17.99        | 58             | 72     | 10     | name.com                                    |
+| bingeable.com        | resell    | $172,500    | $17.99        | 68             | 80     | 9      | NameCheap, Inc.                             |
+| stronger.com         | premium   | $710,700    | —             | 67             | 19     | 8      | GoDaddy.com, LLC                            |
+| linearpair.com       | available | $12.99      | $17.99        | 58             | 72     | 11     | name.com                                    |
+| literaryfiction.com  | resell    | $10,580     | $19.99        | 60             | 72     | 16     | GoDaddy.com, LLC                            |
+| truthordare.com      | premium   | $236,900    | —             | 69             | 18     | 13     | GoDaddy Online Services Cayman Islands Ltd. |
+| dativecase.com       | available | $12.99      | $17.99        | 58             | 72     | 11     | name.com                                    |
+| apartmentcomplex.com | resell    | $224,250    | $17.99        | 54             | 72     | 17     | GoDaddy.com, LLC                            |
+| distribution.com     | premium   | $2,961,250  | —             | 68             | 18     | 12     | GoDaddy.com, LLC                            |
+| hornedadder.com      | available | $12.99      | $17.99        | 58             | 72     | 12     | name.com                                    |
+| relyupon.com         | resell    | $4,479.25   | $19.99        | —              | 72     | 9      | TurnCommerce, Inc. DBA NameBright.com       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 17,930 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 18,250 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
