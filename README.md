@@ -1,10 +1,10 @@
-# Available .COM One-Word Domains (18,250)
+# Available .COM One-Word Domains (18,320)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C250%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C320%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .com one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,250 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,320 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,250 domains
+**Public extract:** 1,000 rows · **Live catalog:** 18,320 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/com`  
 **Best for:** founders, investors, studios
 
@@ -66,10 +66,10 @@ print(df.head())
 | -------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | affricative.com      | available | $12.99      | $17.99        | 66             | 72     | 11     | name.com                                    |
 | partial.com          | resell    | $575,000    | $17.99        | 100            | 88     | 7      | GoDaddy.com, LLC                            |
-| compound.com         | premium   | $5,685,600  | —             | 77             | 26     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
+| compound.com         | premium   | $5,685,600  | —             | 77             | 27     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
 | abigailship.com      | available | $12.99      | $17.99        | 64             | 72     | 11     | name.com                                    |
 | saviour.com          | resell    | $64,630     | $17.99        | 68             | 88     | 7      | GoDaddy.com, LLC                            |
-| saving.com           | premium   | $1,776,750  | —             | 79             | 19     | 6      | GoDaddy.com, LLC                            |
+| whats.com            | premium   | $592,250    | —             | 58             | 24     | 5      | GoDaddy Online Services Cayman Islands Ltd. |
 | cottageorchard.com   | available | $12.99      | $17.99        | 60             | 72     | 15     | name.com                                    |
 | reproduce.com        | resell    | $343,447.50 | $17.99        | 66             | 84     | 9      | Network Solutions, LLC                      |
 | stepup.com           | premium   | $177,779.24 | —             | 78             | 19     | 7      | Annulet LLC                                 |
@@ -83,7 +83,7 @@ print(df.head())
 | apartmentcomplex.com | resell    | $224,250    | $17.99        | 54             | 72     | 17     | GoDaddy.com, LLC                            |
 | distribution.com     | premium   | $2,961,250  | —             | 68             | 18     | 12     | GoDaddy.com, LLC                            |
 | hornedadder.com      | available | $12.99      | $17.99        | 58             | 72     | 12     | name.com                                    |
-| relyupon.com         | resell    | $4,479.25   | $19.99        | —              | 72     | 9      | TurnCommerce, Inc. DBA NameBright.com       |
+| publiclyheld.com     | resell    | $2,758.85   | $19.99        | —              | 72     | 13     | Sav.com, LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 18,250 live domains                              |
+| 1,000-row public sample | 18,320 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
