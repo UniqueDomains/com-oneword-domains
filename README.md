@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .com one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **18,320 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,320 domains
+**Public extract:** 1,000 rows · **Live catalog:** 18,320 domains · **Median ask:** $179,454.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/com`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| affricative.com      | available | $12.99      | $17.99        | 66             | 72     | 11     | name.com                                    |
-| partial.com          | resell    | $575,000    | $17.99        | 100            | 88     | 7      | GoDaddy.com, LLC                            |
-| compound.com         | premium   | $5,685,600  | —             | 77             | 27     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
-| abigailship.com      | available | $12.99      | $17.99        | 64             | 72     | 11     | name.com                                    |
-| saviour.com          | resell    | $64,630     | $17.99        | 68             | 88     | 7      | GoDaddy.com, LLC                            |
-| whats.com            | premium   | $592,250    | —             | 58             | 24     | 5      | GoDaddy Online Services Cayman Islands Ltd. |
-| cottageorchard.com   | available | $12.99      | $17.99        | 60             | 72     | 15     | name.com                                    |
-| reproduce.com        | resell    | $343,447.50 | $17.99        | 66             | 84     | 9      | Network Solutions, LLC                      |
-| stepup.com           | premium   | $177,779.24 | —             | 78             | 19     | 7      | Annulet LLC                                 |
-| airbrasion.com       | available | $12.99      | $17.99        | 58             | 72     | 10     | name.com                                    |
-| bingeable.com        | resell    | $172,500    | $17.99        | 68             | 80     | 9      | NameCheap, Inc.                             |
-| stronger.com         | premium   | $710,700    | —             | 67             | 19     | 8      | GoDaddy.com, LLC                            |
-| linearpair.com       | available | $12.99      | $17.99        | 58             | 72     | 11     | name.com                                    |
-| literaryfiction.com  | resell    | $10,580     | $19.99        | 60             | 72     | 16     | GoDaddy.com, LLC                            |
-| truthordare.com      | premium   | $236,900    | —             | 69             | 18     | 13     | GoDaddy Online Services Cayman Islands Ltd. |
-| dativecase.com       | available | $12.99      | $17.99        | 58             | 72     | 11     | name.com                                    |
-| apartmentcomplex.com | resell    | $224,250    | $17.99        | 54             | 72     | 17     | GoDaddy.com, LLC                            |
-| distribution.com     | premium   | $2,961,250  | —             | 68             | 18     | 12     | GoDaddy.com, LLC                            |
-| hornedadder.com      | available | $12.99      | $17.99        | 58             | 72     | 12     | name.com                                    |
-| publiclyheld.com     | resell    | $2,758.85   | $19.99        | —              | 72     | 13     | Sav.com, LLC                                |
+| domain             | status  | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------------ | ------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| xix.com            | premium | $473,800    | —             | 86             | 14     | 3      | Network Solutions, LLC                      |
+| lockkey.com        | premium | $9,476      | —             | 80             | 1      | 8      | GoDaddy Online Services Cayman Islands Ltd. |
+| memorise.com       | premium | $58,513.12  | —             | 84             | 6      | 8      | GoDaddy.com, LLC                            |
+| dragrace.com       | premium | $46,195.50  | —             | 82             | 4      | 9      | GoDaddy Online Services Cayman Islands Ltd. |
+| encourage.com      | premium | $888,375    | —             | 86             | 10     | 9      | GoDaddy Online Services Cayman Islands Ltd. |
+| keepfaith.com      | premium | $14,214     | —             | 82             | 3      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
+| asyoulike.com      | premium | $21,321     | —             | 80             | 2      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| asyouwish.com      | premium | $100,682.50 | —             | 80             | 7      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| fascinating.com    | premium | $225,055    | —             | 80             | 8      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| weddingcake.com    | premium | $105,420.50 | —             | 85             | 5      | 12     | Above.com Pty Ltd.                          |
+| tips.com           | resell  | —           | —             | 80             | 26     | 4      | GoDaddy.com, LLC                            |
+| minute.com         | resell  | —           | —             | 80             | 19     | 6      | Network Solutions, LLC                      |
+| prompt.com         | resell  | —           | —             | 82             | 69     | 6      | GoDaddy.com, LLC                            |
+| chaitea.com        | resell  | —           | —             | 86             | 3      | 8      | GoDaddy.com, LLC                            |
+| turninto.com       | resell  | —           | —             | 86             | 2      | 9      | GoDaddy.com, LLC                            |
+| enthusiasm.com     | resell  | —           | —             | 80             | 8      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
+| makesense.com      | resell  | —           | —             | 82             | 14     | 10     | GoDaddy.com, LLC                            |
+| RomanEmpire.com    | resell  | —           | —             | 86             | 4      | 12     | GoDaddy.com, LLC                            |
+| quiver.com         | resell  | —           | —             | 94             | 84     | 6      | Wild West Domains, LLC                      |
+| aroundtheworld.com | resell  | —           | —             | 84             | 88     | 16     | Sea Wasp, LLC                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 18,320 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 18,320 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely .com, which keeps the selection focused on the most recognized extension for both resale and operating use. The names range from very short formats such as xix.com to dictionary words like memorise.com and encourage.com, plus broader phrase-based brands such as asyoulike.com and weddingcake.com. With a median ask of $179,454, many of these domains should be treated as premium inventory rather than impulse buys. When comparing them, look first at linguistic clarity, commercial breadth, and how easily the name can hold value or support a serious brand. Then check whether the specific wording creates trademark friction or narrows buyer demand.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All domains in this selection use the .com extension
+- Mix of short, exact-word, and phrase-based .com names
+- Median ask is $179,454 across the selection
+- Check brandability, buyer breadth, and trademark exposure
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
