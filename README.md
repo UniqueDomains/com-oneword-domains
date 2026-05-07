@@ -79,7 +79,7 @@ print(df.head())
 | prompt.com         | resell  | —           | —             | 82             | 69     | 6      | GoDaddy.com, LLC                            |
 | chaitea.com        | resell  | —           | —             | 86             | 3      | 8      | GoDaddy.com, LLC                            |
 | turninto.com       | resell  | —           | —             | 86             | 2      | 9      | GoDaddy.com, LLC                            |
-| enthusiasm.com     | resell  | —           | —             | 80             | 8      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
+| enthusiasm.com     | resell  | —           | —             | 80             | 7      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
 | makesense.com      | resell  | —           | —             | 82             | 14     | 10     | GoDaddy.com, LLC                            |
 | RomanEmpire.com    | resell  | —           | —             | 86             | 4      | 12     | GoDaddy.com, LLC                            |
 | quiver.com         | resell  | —           | —             | 94             | 84     | 6      | Wild West Domains, LLC                      |
