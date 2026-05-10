@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 00184361-4d57-4d04-b71c-95669722dfc9,undergoes.com,premium,6026.74,,55,1,9,Annulet LLC,03/04/2004 20:14,03/04/2027 19:14
 0045a310-74ea-46d1-a168-9926a52e4a22,thereaway.com,available,12.99,,58,1,10,name.com,,
-0193560b-e0e1-44e5-913f-1dde9bbf3d27,bringon.com,premium,15398.5,,74,3,8,GoDaddy Online Services Cayman Islands Ltd.,13/12/2004 19:11,13/12/2026 19:11
+0193560b-e0e1-44e5-913f-1dde9bbf3d27,bringon.com,premium,15398.5,,74,2,8,GoDaddy Online Services Cayman Islands Ltd.,13/12/2004 19:11,13/12/2026 19:11
 01bcb2a0-9c2a-4261-9b71-3f761170b99c,queried.com,resell,,,57,2,7,"Blue Razor Domains, LLC",02/10/2004 18:12,02/10/2026 18:12
 020aa1ce-a599-454b-86bc-ec20152cf4b2,sexualassault.com,premium,65147.5,,43,3,14,GoDaddy Online Services Cayman Islands Ltd.,19/11/2001 19:09,19/11/2030 19:09
 02b5cbc3-efa9-4f2a-8787-a7a2dd434a14,whats.com,premium,592250,,58,24,5,GoDaddy Online Services Cayman Islands Ltd.,11/12/2004 19:17,11/12/2030 19:17
@@ -306,7 +306,7 @@ cb05e6a6-4118-41fc-a3f2-72e421084b10,highquality.com,premium,266512.5,,72,8,12,"
 cb6c84a7-c83a-476b-8fb4-9ddc2fa14d60,atthemoment.com,premium,21321,,70,3,13,GoDaddy Online Services Cayman Islands Ltd.,15/06/2004 18:32,15/06/2026 18:32
 cbb19518-1510-4d2f-939b-fc1f0721ce8d,shoveover.com,available,12.99,,59,1,10,name.com,,
 cc223877-0e6f-435b-a19d-95864496cbae,fascinating.com,premium,225055,,80,8,11,GoDaddy Online Services Cayman Islands Ltd.,20/08/2003 18:31,20/08/2030 18:31
-cedc6d11-59c7-4722-834d-6b269d526941,claire.com,resell,,,68,26,6,Dynadot Inc,09/06/1997 04:00,08/06/2034 04:00
+cedc6d11-59c7-4722-834d-6b269d526941,claire.com,resell,,,68,25,6,Dynadot Inc,09/06/1997 04:00,08/06/2035 04:00
 cf9951e0-c3fe-4743-8a4c-1c08b7f9471e,demonstrated.com,resell,,,68,3,12,"GoDaddy.com, LLC",29/01/2002 16:20,29/01/2027 16:20
 d354985b-a9b2-4bee-bd53-00ac8014b421,toured.com,resell,,,52,3,6,Dynadot Inc,24/01/2003 14:27,24/01/2027 14:27
 d36d45f0-36e1-475a-a804-2d517365e7cc,paperingover.com,available,12.99,,53,1,13,name.com,,
