@@ -65,13 +65,13 @@ print(df.head())
 | domain             | status  | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------------ | ------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | xix.com            | premium | $473,800    | —             | 86             | 14     | 3      | Network Solutions, LLC                      |
-| lockkey.com        | premium | $9,476      | —             | 80             | 1      | 8      | GoDaddy Online Services Cayman Islands Ltd. |
+| lockkey.com        | premium | $9,476      | —             | 80             | 2      | 8      | GoDaddy Online Services Cayman Islands Ltd. |
 | memorise.com       | premium | $58,513.12  | —             | 84             | 6      | 8      | GoDaddy.com, LLC                            |
 | dragrace.com       | premium | $46,195.50  | —             | 82             | 4      | 9      | GoDaddy Online Services Cayman Islands Ltd. |
 | encourage.com      | premium | $888,375    | —             | 86             | 10     | 9      | GoDaddy Online Services Cayman Islands Ltd. |
 | keepfaith.com      | premium | $14,214     | —             | 82             | 3      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
 | asyoulike.com      | premium | $21,321     | —             | 80             | 2      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
-| asyouwish.com      | premium | $100,682.50 | —             | 80             | 7      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| asyouwish.com      | premium | $100,682.50 | —             | 80             | 8      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
 | fascinating.com    | premium | $225,055    | —             | 80             | 8      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
 | weddingcake.com    | premium | $105,420.50 | —             | 85             | 5      | 12     | Above.com Pty Ltd.                          |
 | tips.com           | resell  | —           | —             | 80             | 26     | 4      | GoDaddy.com, LLC                            |
