@@ -1,10 +1,10 @@
-# Available .COM One-Word Domains (18,314)
+# Available .COM One-Word Domains (18,321)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C314%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C321%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .com one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,314 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,321 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,314 domains · **Median ask:** $179,617.28 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 18,321 domains · **Median ask:** $179,499.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/com`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status  | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------------ | ------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| xix.com            | premium | $473,800    | —             | 86             | 14     | 3      | Network Solutions, LLC                      |
-| lockkey.com        | premium | $9,476      | —             | 80             | 2      | 8      | GoDaddy Online Services Cayman Islands Ltd. |
-| memorise.com       | premium | $58,513.12  | —             | 84             | 6      | 8      | GoDaddy.com, LLC                            |
-| dragrace.com       | premium | $46,195.50  | —             | 82             | 4      | 9      | GoDaddy Online Services Cayman Islands Ltd. |
-| encourage.com      | premium | $888,375    | —             | 86             | 10     | 9      | GoDaddy Online Services Cayman Islands Ltd. |
-| keepfaith.com      | premium | $14,214     | —             | 82             | 2      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
-| asyoulike.com      | premium | $21,321     | —             | 80             | 2      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
-| asyouwish.com      | premium | $100,682.50 | —             | 80             | 8      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
-| fascinating.com    | premium | $225,055    | —             | 80             | 8      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
-| weddingcake.com    | premium | $105,420.50 | —             | 85             | 5      | 12     | Above.com Pty Ltd.                          |
-| tips.com           | resell  | —           | —             | 80             | 26     | 4      | GoDaddy.com, LLC                            |
-| minute.com         | resell  | —           | —             | 80             | 19     | 6      | Network Solutions, LLC                      |
-| prompt.com         | resell  | —           | —             | 82             | 69     | 6      | GoDaddy.com, LLC                            |
-| chaitea.com        | resell  | —           | —             | 86             | 3      | 8      | GoDaddy.com, LLC                            |
-| turninto.com       | resell  | —           | —             | 86             | 3      | 9      | GoDaddy.com, LLC                            |
-| enthusiasm.com     | resell  | —           | —             | 80             | 7      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
-| makesense.com      | resell  | —           | —             | 82             | 13     | 10     | GoDaddy.com, LLC                            |
-| RomanEmpire.com    | resell  | —           | —             | 86             | 4      | 12     | GoDaddy.com, LLC                            |
-| quiver.com         | resell  | —           | —             | 94             | 84     | 6      | Wild West Domains, LLC                      |
-| aroundtheworld.com | resell  | —           | —             | 84             | 88     | 16     | Sea Wasp, LLC                               |
+| domain          | status  | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | ------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| xix.com         | premium | $473,800    | —             | 86             | 14     | 3      | Network Solutions, LLC                      |
+| lockkey.com     | premium | $9,476      | —             | 80             | 2      | 8      | GoDaddy Online Services Cayman Islands Ltd. |
+| memorise.com    | premium | $58,513.12  | —             | 84             | 6      | 8      | GoDaddy.com, LLC                            |
+| dragrace.com    | premium | $46,195.50  | —             | 82             | 4      | 9      | GoDaddy Online Services Cayman Islands Ltd. |
+| encourage.com   | premium | $888,375    | —             | 86             | 10     | 9      | GoDaddy Online Services Cayman Islands Ltd. |
+| keepfaith.com   | premium | $14,214     | —             | 82             | 2      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
+| asyoulike.com   | premium | $21,321     | —             | 80             | 2      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| asyouwish.com   | premium | $100,682.50 | —             | 80             | 8      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| fascinating.com | premium | $225,055    | —             | 80             | 8      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| weddingcake.com | premium | $105,420.50 | —             | 85             | 5      | 12     | Above.com Pty Ltd.                          |
+| tips.com        | resell  | —           | —             | 80             | 26     | 4      | GoDaddy.com, LLC                            |
+| minute.com      | resell  | —           | —             | 80             | 19     | 6      | Network Solutions, LLC                      |
+| prompt.com      | resell  | —           | —             | 82             | 69     | 6      | GoDaddy.com, LLC                            |
+| chaitea.com     | resell  | —           | —             | 86             | 3      | 8      | GoDaddy.com, LLC                            |
+| turninto.com    | resell  | —           | —             | 86             | 3      | 9      | GoDaddy.com, LLC                            |
+| enthusiasm.com  | resell  | —           | —             | 80             | 7      | 10     | GoDaddy Online Services Cayman Islands Ltd. |
+| makesense.com   | resell  | —           | —             | 82             | 13     | 10     | GoDaddy.com, LLC                            |
+| coffeesenna.com | resell  | —           | —             | 80             | 1      | 12     | Dynadot Inc                                 |
+| RomanEmpire.com | resell  | —           | —             | 86             | 5      | 12     | GoDaddy.com, LLC                            |
+| quiver.com      | resell  | —           | —             | 94             | 84     | 6      | Wild West Domains, LLC                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,314 live domains                        |
+| 1,000-row public sample | 18,321 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
