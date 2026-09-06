@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .com one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,037 domains · **Median ask:** $108,824.50 · **High-demand under $2,500:** 372
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/com`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,7 @@ print(df.head())
 | domain         | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                           |
 | -------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | wholesale.com  | resell    | —             | —             | high           | low    | 9      | Dynadot Inc                                         |
+| pretend.com    | resell    | —             | —             | high           | low    | 7      | Tucows Domains Inc.                                 |
 | barytic.com    | available | $11.28        | $18.48        | low            | low    | 7      | namecheap                                           |
 | achy.com       | resell    | $57,385       | $19.99        | low            | low    | 4      | Dynadot Inc                                         |
 | saving.com     | premium   | $1,776,750    | —             | high           | low    | 6      | GoDaddy.com, LLC                                    |
@@ -83,7 +84,6 @@ print(df.head())
 | accresces.com  | available | $12.99        | $17.99        | low            | low    | 9      | name.com                                            |
 | thorpe.com     | resell    | $91,998.85    | $17.99        | medium         | low    | 6      | GoDaddy.com, LLC                                    |
 | goplatinum.com | premium   | $35,529.08    | —             | high           | low    | 11     | GoDaddy.com, LLC                                    |
-| apivorous.com  | available | $11.28        | $18.48        | low            | low    | 9      | namecheap                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
