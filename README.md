@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .com one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,127 domains · **Median ask:** $68,329.32 · **High-demand under $2,500:** 365
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/com`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                     |
-| -------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| torrent.com    | resell    | —             | —             | high           | high   | 7      | Dynadot Inc                   |
-| barytic.com    | available | $11.28        | $18.48        | low            | low    | 7      | namecheap                     |
-| achy.com       | resell    | $57,385       | $19.99        | low            | low    | 4      | Dynadot Inc                   |
-| saving.com     | premium   | $1,776,750    | —             | high           | low    | 6      | GoDaddy.com, LLC              |
-| uraemic.com    | available | $11.28        | $18.48        | low            | low    | 7      | namecheap                     |
-| ales.com       | resell    | $77,050       | $19.99        | medium         | medium | 4      | GoDaddy.com, LLC              |
-| apophatic.com  | premium   | $3,539.29     | $19.99        | low            | low    | 9      | Annulet LLC                   |
-| azotemic.com   | available | $10.98        | $18.48        | low            | low    | 8      | namecheap                     |
-| iraq.com       | resell    | $1,149,999.99 | $17.99        | low            | low    | 4      | KuwaitNet General Trading co. |
-| rearwards.com  | premium   | $2,354.79     | $19.99        | low            | low    | 9      | Annulet LLC                   |
-| complute.com   | available | $16.98        | —             | medium         | high   | 8      | namecheap                     |
-| daggum.com     | resell    | $2,183.85     | $17.99        | high           | low    | 6      | GoDaddy.com, LLC              |
-| goplatinum.com | premium   | $35,529.08    | —             | high           | low    | 11     | GoDaddy.com, LLC              |
-| yshaped.com    | available | $10.98        | $18.48        | low            | low    | 8      | namecheap                     |
-| prisms.com     | resell    | $281,750      | $17.99        | low            | low    | 6      | GoDaddy.com, LLC              |
-| coziness.com   | premium   | —             | —             | medium         | high   | 8      | Blue Razor Domains, LLC       |
-| accouples.com  | available | $12.99        | $17.99        | low            | low    | 9      | name.com                      |
-| thorpe.com     | resell    | $91,998.85    | $17.99        | medium         | low    | 6      | GoDaddy.com, LLC              |
-| paperboy.com   | premium   | —             | —             | medium         | high   | 8      | Network Solutions, LLC        |
-| accresces.com  | available | $12.99        | $17.99        | low            | low    | 9      | name.com                      |
+| domain         | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                   |
+| -------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| amebous.com    | available | $10.98        | $18.48        | medium         | low    | 7      | namecheap                                   |
+| mam.com        | resell    | $1,149,999.99 | $17.99        | high           | high   | 3      | GoDaddy.com, LLC                            |
+| clam.com       | premium   | $1,724,998.85 | $19.99        | high           | low    | 4      | GoDaddy.com, LLC                            |
+| filmise.com    | available | $12.99        | $17.99        | high           | high   | 7      | name.com                                    |
+| achy.com       | resell    | $57,385       | $19.99        | medium         | low    | 4      | Dynadot Inc                                 |
+| pale.com       | premium   | $1,006,825    | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| complute.com   | available | $16.98        | —             | high           | high   | 8      | namecheap                                   |
+| ales.com       | resell    | $77,050       | $19.99        | high           | medium | 4      | GoDaddy.com, LLC                            |
+| saving.com     | premium   | $1,776,750    | —             | high           | low    | 6      | GoDaddy.com, LLC                            |
+| accouples.com  | available | $12.99        | $17.99        | low            | low    | 9      | name.com                                    |
+| idle.com       | resell    | $1,138,500    | $19.99        | high           | low    | 4      | Atom.com Domains LLC                        |
+| unlike.com     | premium   | $112,527.50   | —             | high           | low    | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| accresces.com  | available | $12.99        | $17.99        | low            | low    | 9      | name.com                                    |
+| acrid.com      | resell    | $5,748.85     | $19.99        | medium         | low    | 5      | Dynadot Inc                                 |
+| toddler.com    | premium   | $1,776,750    | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
+| annelidan.com  | available | $11.28        | $18.48        | medium         | low    | 9      | namecheap                                   |
+| adust.com      | resell    | $4,594.25     | $19.99        | medium         | low    | 5      | Dynadot Inc                                 |
+| apophatic.com  | premium   | $3,539.29     | $19.99        | medium         | low    | 9      | Annulet LLC                                 |
+| accumbency.com | available | $12.99        | $17.99        | high           | high   | 10     | name.com                                    |
+| thorpe.com     | resell    | $91,998.85    | $17.99        | high           | low    | 6      | GoDaddy.com, LLC                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
