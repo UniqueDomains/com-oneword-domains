@@ -1,10 +1,10 @@
-# Available .COM One-Word Domains (22,127)
+# Available .COM One-Word Domains (8,610)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C127%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C610%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .com one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,127 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,610 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,127 domains · **Median ask:** $68,329.32 · **High-demand under $2,500:** 365
+**Public extract:** 1,000 rows · **Live catalog:** 8,610 domains · **Median ask:** $255,577.05 · **High-demand under $2,500:** 137
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/com`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain         | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                   |
 | -------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| technology.com | resell    | —             | —             | high           | low    | 10     | Dynadot Inc                                 |
+| rasta.com      | resell    | —             | —             | high           | medium | 5      | GoDaddy.com, LLC                            |
+| sacrosanct.com | resell    | —             | —             | high           | medium | 10     | GoDaddy.com, LLC                            |
 | amebous.com    | available | $10.98        | $18.48        | medium         | low    | 7      | namecheap                                   |
 | mam.com        | resell    | $1,149,999.99 | $17.99        | high           | high   | 3      | GoDaddy.com, LLC                            |
 | clam.com       | premium   | $1,724,998.85 | $19.99        | high           | low    | 4      | GoDaddy.com, LLC                            |
@@ -81,9 +84,6 @@ print(df.head())
 | toddler.com    | premium   | $1,776,750    | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
 | annelidan.com  | available | $11.28        | $18.48        | medium         | low    | 9      | namecheap                                   |
 | adust.com      | resell    | $4,594.25     | $19.99        | medium         | low    | 5      | Dynadot Inc                                 |
-| apophatic.com  | premium   | $3,539.29     | $19.99        | medium         | low    | 9      | Annulet LLC                                 |
-| accumbency.com | available | $12.99        | $17.99        | high           | high   | 10     | name.com                                    |
-| thorpe.com     | resell    | $91,998.85    | $17.99        | high           | low    | 6      | GoDaddy.com, LLC                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,127 live domains                        |
+| 1,000-row public sample | 8,610 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 365 high-demand names under $2,500         |
+| Basic exported fields   | 137 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
