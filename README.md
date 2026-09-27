@@ -1,10 +1,10 @@
-# Available .COM One-Word Domains (8,610)
+# Available .COM One-Word Domains (8,040)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C610%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C040%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .com one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,610 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,040 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,610 domains · **Median ask:** $255,577.05 · **High-demand under $2,500:** 137
+**Public extract:** 1,000 rows · **Live catalog:** 8,040 domains · **Median ask:** $248,674.02 · **High-demand under $2,500:** 147
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/com`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| technology.com | resell    | —             | —             | high           | low    | 10     | Dynadot Inc                                 |
-| rasta.com      | resell    | —             | —             | high           | medium | 5      | GoDaddy.com, LLC                            |
-| sacrosanct.com | resell    | —             | —             | high           | medium | 10     | GoDaddy.com, LLC                            |
-| amebous.com    | available | $10.98        | $18.48        | medium         | low    | 7      | namecheap                                   |
-| mam.com        | resell    | $1,149,999.99 | $17.99        | high           | high   | 3      | GoDaddy.com, LLC                            |
-| clam.com       | premium   | $1,724,998.85 | $19.99        | high           | low    | 4      | GoDaddy.com, LLC                            |
-| filmise.com    | available | $12.99        | $17.99        | high           | high   | 7      | name.com                                    |
-| achy.com       | resell    | $57,385       | $19.99        | medium         | low    | 4      | Dynadot Inc                                 |
-| pale.com       | premium   | $1,006,825    | —             | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| complute.com   | available | $16.98        | —             | high           | high   | 8      | namecheap                                   |
-| ales.com       | resell    | $77,050       | $19.99        | high           | medium | 4      | GoDaddy.com, LLC                            |
-| saving.com     | premium   | $1,776,750    | —             | high           | low    | 6      | GoDaddy.com, LLC                            |
-| accouples.com  | available | $12.99        | $17.99        | low            | low    | 9      | name.com                                    |
-| idle.com       | resell    | $1,138,500    | $19.99        | high           | low    | 4      | Atom.com Domains LLC                        |
-| unlike.com     | premium   | $112,527.50   | —             | high           | low    | 6      | GoDaddy Online Services Cayman Islands Ltd. |
-| accresces.com  | available | $12.99        | $17.99        | low            | low    | 9      | name.com                                    |
-| acrid.com      | resell    | $5,748.85     | $19.99        | medium         | low    | 5      | Dynadot Inc                                 |
-| toddler.com    | premium   | $1,776,750    | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
-| annelidan.com  | available | $11.28        | $18.48        | medium         | low    | 9      | namecheap                                   |
-| adust.com      | resell    | $4,594.25     | $19.99        | medium         | low    | 5      | Dynadot Inc                                 |
+| domain        | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| clxxv.com     | available | $10.98        | $18.48        | medium         | low    | 5      | namecheap                                   |
+| achy.com      | resell    | $57,385       | $19.99        | medium         | low    | 4      | Dynadot Inc                                 |
+| kinda.com     | premium   | $414,575      | —             | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
+| cononie.com   | available | $16.98        | —             | high           | high   | 7      | namecheap                                   |
+| yank.com      | resell    | $1,149,999.99 | $17.99        | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| darned.com    | premium   | $11,949.24    | $19.99        | medium         | low    | 6      | Annulet LLC                                 |
+| acinetae.com  | available | $16.98        | —             | low            | low    | 8      | namecheap                                   |
+| amici.com     | resell    | $253,000      | $19.99        | high           | medium | 5      | Sea Wasp, LLC                               |
+| towards.com   | premium   | $207,287.50   | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
+| contrazy.com  | available | $16.98        | —             | high           | high   | 8      | namecheap                                   |
+| curie.com     | resell    | $1,149,999.99 | $19.99        | high           | low    | 5      | Dynadot Inc                                 |
+| dolorous.com  | premium   | $6,737.44     | $19.99        | medium         | low    | 8      | Annulet LLC                                 |
+| kongfuze.com  | available | $12.99        | $17.99        | high           | high   | 8      | name.com                                    |
+| dovish.com    | resell    | $38,178.85    | $19.99        | medium         | low    | 6      | GoDaddy.com, LLC                            |
+| merciful.com  | premium   | $77,096.74    | $19.99        | high           | low    | 8      | Annulet LLC                                 |
+| prefaded.com  | available | $10.98        | $18.48        | high           | medium | 8      | namecheap                                   |
+| prisms.com    | resell    | $281,750      | $17.99        | medium         | low    | 6      | GoDaddy.com, LLC                            |
+| runproof.com  | premium   | $1,184.50     | $19.99        | medium         | low    | 8      | Megazone Corp., dba HOSTING.KR              |
+| catarrhal.com | available | $11.28        | $18.48        | medium         | low    | 9      | namecheap                                   |
+| existing.com  | resell    | $57,385       | $17.99        | high           | low    | 8      | Dynadot Inc                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,610 live domains                         |
+| 1,000-row public sample | 8,040 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 137 high-demand names under $2,500         |
+| Basic exported fields   | 147 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
