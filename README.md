@@ -1,10 +1,10 @@
-# Available .COM One-Word Domains (9,104)
+# Available .COM One-Word Domains (9,431)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C104%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C431%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .com one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,104 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,431 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,104 domains · **Median ask:** $133,408.56 · **High-demand under $2,500:** 156
+**Public extract:** 1,000 rows · **Live catalog:** 9,431 domains · **Median ask:** $129,823.47 · **High-demand under $2,500:** 177
 
-**.COM market:** 9,589 names available · Median registration $10.88 · Median renewal $13.04 · 25,755 sales in the last 12 months · Median sale $660 (USD sales, last 12 months)
+**.COM market:** 9,595 names available · Median registration $10.88 · Median renewal $13.04 · 25,737 sales in the last 12 months · Median sale $660 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/tld/com`
 **Best for:** founders, investors, studios
 
@@ -64,28 +64,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| cononie.com    | available | $16.98        | —             | high           | high   | 7      | namecheap                                   |
-| achy.com       | resell    | $57,385       | $19.99        | medium         | low    | 4      | Dynadot Inc                                 |
-| darned.com     | premium   | $11,949.24    | $19.99        | medium         | low    | 6      | Annulet LLC                                 |
-| acinetae.com   | available | $16.98        | —             | low            | low    | 8      | namecheap                                   |
-| yank.com       | resell    | $1,149,999.99 | $17.99        | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| dolorous.com   | premium   | $6,737.44     | $19.99        | medium         | low    | 8      | Annulet LLC                                 |
-| contrazy.com   | available | $16.98        | —             | high           | high   | 8      | namecheap                                   |
-| curie.com      | resell    | $1,149,999.99 | $19.99        | high           | low    | 5      | Dynadot Inc                                 |
-| merciful.com   | premium   | $77,096.74    | $19.99        | high           | low    | 8      | Annulet LLC                                 |
-| kongfuze.com   | available | $12.99        | $17.99        | high           | high   | 8      | name.com                                    |
-| prisms.com     | resell    | $281,750      | $17.99        | medium         | low    | 6      | GoDaddy.com, LLC                            |
-| runproof.com   | premium   | $1,184.50     | $19.99        | medium         | low    | 8      | Megazone Corp., dba HOSTING.KR              |
-| prefaded.com   | available | $10.98        | $18.48        | high           | medium | 8      | namecheap                                   |
-| existing.com   | resell    | $57,385       | $17.99        | high           | low    | 8      | Dynadot Inc                                 |
-| faithless.com  | premium   | $29,553.28    | $19.99        | medium         | low    | 9      | Spaceship, Inc.                             |
-| catkinate.com  | available | $11.28        | $18.48        | medium         | low    | 9      | namecheap                                   |
-| fashions.com   | resell    | $454,250      | $17.99        | high           | low    | 8      | GoDaddy.com, LLC                            |
-| forgetful.com  | premium   | $62,541.60    | $19.99        | medium         | low    | 9      | Moniker Online Services LLC                 |
-| abiliments.com | available | $12.99        | $19.99        | low            | low    | 10     | name.com                                    |
-| liberate.com   | resell    | $1,149,999.99 | $19.99        | high           | low    | 8      | Atom.com Domains LLC                        |
+| domain         | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                             |
+| -------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------- |
+| cononie.com    | available | $16.98        | —             | high           | high   | 7      | namecheap                             |
+| achy.com       | resell    | $57,385       | $19.99        | medium         | low    | 4      | Dynadot Inc                           |
+| darned.com     | premium   | $11,949.24    | $19.99        | medium         | low    | 6      | Annulet LLC                           |
+| acinetae.com   | available | $16.98        | —             | low            | low    | 8      | namecheap                             |
+| curie.com      | resell    | $1,149,999.99 | $19.99        | high           | low    | 5      | Dynadot Inc                           |
+| dolorous.com   | premium   | $6,737.44     | $19.99        | medium         | low    | 8      | Annulet LLC                           |
+| contrazy.com   | available | $16.98        | —             | high           | high   | 8      | namecheap                             |
+| prisms.com     | resell    | $281,750      | $17.99        | medium         | low    | 6      | GoDaddy.com, LLC                      |
+| merciful.com   | premium   | $77,096.74    | $19.99        | high           | low    | 8      | Annulet LLC                           |
+| kongfuze.com   | available | $12.99        | $17.99        | high           | high   | 8      | name.com                              |
+| existing.com   | resell    | $57,385       | $17.99        | high           | low    | 8      | Dynadot Inc                           |
+| runproof.com   | premium   | $1,184.50     | $19.99        | medium         | low    | 8      | Megazone Corp., dba HOSTING.KR        |
+| prefaded.com   | available | $10.98        | $18.48        | high           | medium | 8      | namecheap                             |
+| fashions.com   | resell    | $454,250      | $17.99        | high           | low    | 8      | GoDaddy.com, LLC                      |
+| faithless.com  | premium   | $29,553.28    | $19.99        | medium         | low    | 9      | Spaceship, Inc.                       |
+| catkinate.com  | available | $11.28        | $18.48        | medium         | low    | 9      | namecheap                             |
+| liberate.com   | resell    | $1,149,999.99 | $19.99        | high           | low    | 8      | Atom.com Domains LLC                  |
+| forgetful.com  | premium   | $62,541.60    | $19.99        | medium         | low    | 9      | Moniker Online Services LLC           |
+| abiliments.com | available | $12.99        | $19.99        | low            | low    | 10     | name.com                              |
+| accusable.com  | resell    | $10,348.85    | $19.99        | high           | high   | 9      | TurnCommerce, Inc. DBA NameBright.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 9,104 live domains                                   |
+| 1,000-row public sample | 9,431 live domains                                   |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 156 high-demand names under $2,500                   |
+| Basic exported fields   | 177 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
