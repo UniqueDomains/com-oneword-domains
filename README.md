@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .com one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,126 domains · **Median ask:** $134,793.40 · **High-demand under $2,500:** 173
 
-**.COM market:** 9,643 names available · Median registration $10.88 · Median renewal $13.04 · 26,514 sales in the last 12 months · Median sale $699 (USD sales, last 12 months)
+**.COM market:** 9,645 names available · Median registration $10.88 · Median renewal $13.04 · 26,715 sales in the last 12 months · Median sale $705 (USD sales, last 12 months)
 
 **Last updated:** 2026-10-12
 **Canonical page:** `https://unique.domains/tld/com`
@@ -72,7 +72,7 @@ print(df.head())
 | supercity.com  | resell    | —             | —             | high           | high   | 9      | GoDaddy.com, LLC               |
 | cononie.com    | available | $16.98        | —             | high           | high   | 7      | namecheap                      |
 | achy.com       | resell    | $57,385       | $19.99        | medium         | low    | 4      | Dynadot Inc                    |
-| dolorous.com   | premium   | $6,737.44     | $19.99        | low            | low    | 8      | Annulet LLC                    |
+| dolorous.com   | premium   | $6,737.44     | $19.99        | medium         | low    | 8      | Annulet LLC                    |
 | acinetae.com   | available | $16.98        | —             | low            | low    | 8      | namecheap                      |
 | curie.com      | resell    | $1,149,999.99 | $19.99        | high           | low    | 5      | Dynadot Inc                    |
 | merciful.com   | premium   | $77,096.74    | $19.99        | high           | low    | 8      | Annulet LLC                    |
