@@ -64,28 +64,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| hnrnp.com        | available | $17.29        | $17.29        | high           | low    | 5      | namesilo                                                |
-| achy.com         | resell    | $57,385       | $19.99        | high           | low    | 4      | Dynadot Inc                                             |
-| merciful.com     | premium   | $77,096.74    | $19.99        | high           | low    | 8      | Annulet LLC                                             |
-| namtap.com       | available | $17.29        | $17.29        | high           | high   | 6      | namesilo                                                |
-| yank.com         | resell    | $1,149,999.99 | $17.99        | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd.             |
-| wharfs.com       | premium   | —             | —             | high           | low    | 6      | TurnCommerce, Inc. DBA NameBright.com                   |
-| unisfa.com       | available | $9.08         | $10.18        | high           | high   | 6      | spaceship                                               |
-| amici.com        | resell    | $253,000      | $19.99        | high           | low    | 5      | Sea Wasp, LLC                                           |
-| smidgin.com      | premium   | —             | —             | high           | low    | 7      | GoDaddy.com, LLC                                        |
-| shoneen.com      | available | $9.08         | $10.18        | high           | high   | 7      | spaceship                                               |
-| curie.com        | resell    | $1,149,999.99 | $19.99        | high           | low    | 5      | Dynadot Inc                                             |
-| gelatines.com    | premium   | —             | —             | high           | low    | 9      | Annulet LLC                                             |
-| sinkant.com      | available | $17.29        | $17.29        | high           | high   | 7      | namesilo                                                |
-| forgo.com        | resell    | $89,964.50    | $19.99        | high           | low    | 5      | NameChild LLC                                           |
-| unoffensive.com  | premium   | —             | —             | high           | high   | 11     | DropCatch.com 949 LLC                                   |
-| bootikin.com     | available | $10.67        | —             | high           | high   | 8      | unstoppable                                             |
-| prima.com        | resell    | $1,149,999.99 | $17.99        | high           | low    | 5      | Atom.com Domains LLC                                    |
-| answerphones.com | premium   | —             | —             | high           | low    | 12     | Annulet LLC                                             |
-| butylate.com     | available | $10.67        | —             | high           | high   | 8      | unstoppable                                             |
-| chummy.com       | resell    | $269,473.75   | $19.99        | high           | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain            | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| hnrnp.com         | available | $17.29        | $17.29        | high           | low    | 5      | namesilo                                                |
+| achy.com          | resell    | $57,385       | $19.99        | high           | low    | 4      | Dynadot Inc                                             |
+| merciful.com      | premium   | $77,096.74    | $19.99        | high           | low    | 8      | Annulet LLC                                             |
+| namtap.com        | available | $17.29        | $17.29        | high           | high   | 6      | namesilo                                                |
+| yank.com          | resell    | $1,149,999.99 | $17.99        | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd.             |
+| wharfs.com        | premium   | —             | —             | high           | low    | 6      | TurnCommerce, Inc. DBA NameBright.com                   |
+| npoess.com        | available | $17.29        | $17.29        | high           | high   | 6      | namesilo                                                |
+| amici.com         | resell    | $253,000      | $19.99        | high           | low    | 5      | Sea Wasp, LLC                                           |
+| smidgin.com       | premium   | —             | —             | high           | low    | 7      | GoDaddy.com, LLC                                        |
+| unisfa.com        | available | $9.08         | $10.18        | high           | high   | 6      | spaceship                                               |
+| curie.com         | resell    | $1,149,999.99 | $19.99        | high           | low    | 5      | Dynadot Inc                                             |
+| gelatines.com     | premium   | —             | —             | high           | low    | 9      | Annulet LLC                                             |
+| shoneen.com       | available | $9.08         | $10.18        | high           | high   | 7      | spaceship                                               |
+| forgo.com         | resell    | $89,964.50    | $19.99        | high           | low    | 5      | NameChild LLC                                           |
+| answerphones.com  | premium   | —             | —             | high           | low    | 12     | Annulet LLC                                             |
+| sinkant.com       | available | $17.29        | $17.29        | high           | high   | 7      | namesilo                                                |
+| prima.com         | resell    | $1,149,999.99 | $17.99        | high           | low    | 5      | Atom.com Domains LLC                                    |
+| selectiveness.com | premium   | —             | —             | high           | low    | 13     | Annulet LLC                                             |
+| bootikin.com      | available | $10.67        | —             | high           | high   | 8      | unstoppable                                             |
+| chummy.com        | resell    | $269,473.75   | $19.99        | high           | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
