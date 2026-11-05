@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .com one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 5,109 domains · **Median ask:** $32,397.60 · **High-demand under $2,500:** 555
 
-**.COM market:** 9,940 names available · Median registration $11.62 · Median renewal $13.40 · 27,001 sales in the last 12 months · Median sale $760 (USD sales, last 12 months)
+**.COM market:** 9,942 names available · Median registration $11.62 · Median renewal $13.40 · 26,975 sales in the last 12 months · Median sale $760 (USD sales, last 12 months)
 
 **Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/tld/com`
