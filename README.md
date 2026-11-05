@@ -1,10 +1,10 @@
-# Available .COM One-Word Domains (5,359)
+# Available .COM One-Word Domains (5,109)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C359%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C109%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .com one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,359 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **5,109 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 5,359 domains · **Median ask:** $35,714.43 · **High-demand under $2,500:** 550
+**Public extract:** 1,000 rows · **Live catalog:** 5,109 domains · **Median ask:** $32,397.60 · **High-demand under $2,500:** 555
 
-**.COM market:** 9,940 names available · Median registration $11.62 · Median renewal $13.40 · 27,007 sales in the last 12 months · Median sale $760 (USD sales, last 12 months)
+**.COM market:** 9,940 names available · Median registration $11.62 · Median renewal $13.40 · 27,001 sales in the last 12 months · Median sale $760 (USD sales, last 12 months)
 
-**Last updated:** 2026-11-02
+**Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/tld/com`
 **Best for:** founders, investors, studios
 
@@ -64,28 +64,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status | ask_price     | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | ------ | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| recover.com     | resell | $1,149,999.99 | $17.99        | high           | low    | 7      | GoDaddy.com, LLC                                        |
-| forgo.com       | resell | $89,964.50    | $19.99        | high           | low    | 5      | NameChild LLC                                           |
-| thirty.com      | resell | —             | —             | high           | low    | 6      | Atom.com Domains LLC                                    |
-| voicing.com     | resell | —             | —             | high           | low    | 7      | Spaceship, Inc.                                         |
-| detachable.com  | resell | —             | —             | high           | low    | 10     | Moniker Online Services LLC                             |
-| customary.com   | resell | $287,500      | $19.99        | high           | low    | 9      | Rabbitsfoot.com LLC d/b/a Oxygen.nyc                    |
-| fastidious.com  | resell | —             | —             | high           | low    | 10     | GoDaddy Online Services Cayman Islands Ltd.             |
-| shifter.com     | resell | —             | —             | high           | low    | 7      | GoDaddy Online Services Cayman Islands Ltd.             |
-| heirloom.com    | resell | —             | —             | high           | low    | 8      | GoDaddy.com, LLC                                        |
-| prepayment.com  | resell | —             | —             | high           | low    | 10     | —                                                       |
-| tactile.com     | resell | —             | —             | high           | low    | 7      | NameCheap, Inc.                                         |
-| assimilator.com | resell | —             | —             | high           | low    | 11     | GoDaddy.com, LLC                                        |
-| divisional.com  | resell | —             | —             | high           | low    | 10     | Dynadot Inc                                             |
-| perpetuate.com  | resell | —             | —             | high           | low    | 10     | Dynadot Inc                                             |
-| chummy.com      | resell | $269,473.75   | $19.99        | high           | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| nectarine.com   | resell | —             | —             | high           | low    | 9      | GoDaddy Online Services Cayman Islands Ltd.             |
-| recliner.com    | resell | —             | —             | high           | low    | 8      | PDR Ltd. d/b/a PublicDomainRegistry.com                 |
-| hydraulics.com  | resell | —             | —             | high           | low    | 10     | Network Solutions, LLC                                  |
-| souffle.com     | resell | —             | —             | high           | low    | 7      | GoDaddy Online Services Cayman Islands Ltd.             |
-| disloyal.com    | resell | —             | —             | high           | low    | 8      | GoDaddy.com, LLC                                        |
+| domain            | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| hnrnp.com         | available | $17.29        | $17.29        | high           | low    | 5      | namesilo                                                |
+| achy.com          | resell    | $57,385       | $19.99        | high           | low    | 4      | Dynadot Inc                                             |
+| consolation.com   | premium   | $22.99        | —             | high           | low    | 11     | GoDaddy.com, LLC                                        |
+| namtap.com        | available | $17.29        | $17.29        | high           | high   | 6      | namesilo                                                |
+| idle.com          | resell    | $1,138,500    | $19.99        | high           | low    | 4      | Atom.com Domains LLC                                    |
+| wharfs.com        | premium   | —             | —             | high           | low    | 6      | TurnCommerce, Inc. DBA NameBright.com                   |
+| npoess.com        | available | $17.29        | $17.29        | high           | high   | 6      | namesilo                                                |
+| yank.com          | resell    | $1,149,999.99 | $17.99        | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd.             |
+| smidgin.com       | premium   | —             | —             | high           | low    | 7      | GoDaddy.com, LLC                                        |
+| unisfa.com        | available | $9.08         | $10.18        | high           | high   | 6      | spaceship                                               |
+| amici.com         | resell    | $253,000      | $19.99        | high           | low    | 5      | Sea Wasp, LLC                                           |
+| gelatines.com     | premium   | —             | —             | high           | low    | 9      | Annulet LLC                                             |
+| knaydel.com       | available | $9.08         | $10.18        | high           | low    | 7      | spaceship                                               |
+| curie.com         | resell    | $1,149,999.99 | $19.99        | high           | low    | 5      | Dynadot Inc                                             |
+| answerphones.com  | premium   | —             | —             | high           | low    | 12     | Annulet LLC                                             |
+| kthnxbi.com       | available | $17.29        | $17.29        | high           | low    | 7      | namesilo                                                |
+| forgo.com         | resell    | $89,964.50    | $19.99        | high           | low    | 5      | NameChild LLC                                           |
+| selectiveness.com | premium   | —             | —             | high           | low    | 13     | Annulet LLC                                             |
+| milreis.com       | available | $10.67        | —             | high           | low    | 7      | unstoppable                                             |
+| chummy.com        | resell    | $269,473.75   | $19.99        | high           | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 5,359 live domains                                   |
+| 1,000-row public sample | 5,109 live domains                                   |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 550 high-demand names under $2,500                   |
+| Basic exported fields   | 555 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-11-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COM One-Word Domains*. Version 2026-11-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
