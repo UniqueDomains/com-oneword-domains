@@ -1,6 +1,6 @@
 # Available .COM One-Word Domains
 
-3,392 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 26,941 .com sales in the last 12 months, median $758.
+3,395 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 26,934 .com sales in the last 12 months, median $758.
 
 Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
