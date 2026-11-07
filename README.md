@@ -1,59 +1,15 @@
-# Available .COM One-Word Domains (5,009)
+# Available .COM One-Word Domains
 
-<p align="left">
-  <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
-  <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C009%20domains-6f42c1">
-  <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
-  <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
-</p>
+3,392 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 26,941 .com sales in the last 12 months, median $758.
 
-Daily-updated public extract of available and resale .com one-word domains from Unique Domains.
+Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
-> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,009 domains** on the canonical page below.
+<img alt="updated: daily" src="https://img.shields.io/badge/updated-daily-0969da"> <img alt="extract: 1,000 rows" src="https://img.shields.io/badge/extract-1%2C000%20rows-8250df"> <img alt="formats: CSV | JSON" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b"> <img alt="licence: CC BY 4.0" src="https://img.shields.io/badge/licence-CC%20BY%204.0-2ea44f">
 
-**Public extract:** 1,000 rows · **Live catalog:** 5,009 domains · **Median ask:** $28,287.66 · **High-demand under $2,500:** 553
+## Download
 
-**.COM market:** 9,942 names available · Median registration $11.62 · Median renewal $13.40 · 26,941 sales in the last 12 months · Median sale $758 (USD sales, last 12 months)
-
-**Last updated:** 2026-11-06
-**Canonical page:** `https://unique.domains/tld/com`
-**Best for:** founders, investors, studios
-
----
-
-<p align="center">
-  <a href="https://unique.domains/domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
-  <b>⬇️ Download sample</b>: <a href="./com.csv">CSV</a> / <a href="./com.json">JSON</a>
-  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
-  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
-</p>
-
----
-
-➡️ **Investors:** [Create a Radar from this .COM search](https://unique.domains/domains/tld/com?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a naming Radar from this .COM search](https://unique.domains/domains/tld/com?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_start_project)  
-➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_api_docs)
-
----
-
-## 📦 What this repository contains
-
-This repository is the public extract for Unique Domains' .COM one-word domain catalog.
-
-### Files
-
-- `com.csv`, public CSV extract (1,000 rows)
-- `com.json`, public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md`, field definitions for the exported files
-- `METHODOLOGY.md`, scope, refresh policy, and caveats
-- `CHANGELOG.md`, latest snapshot metadata
-- `CITATION.cff`, machine-readable dataset citation metadata
-- `LICENSE`, terms for the public extract
-
-## 🧭 Quick start
+- [com.csv](https://github.com/UniqueDomains/com-oneword-domains/raw/main/com.csv), 1,000 rows
+- [com.json](https://github.com/UniqueDomains/com-oneword-domains/raw/main/com.json), 1,000 rows
 
 ```python
 import pandas as pd
@@ -62,105 +18,93 @@ df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/com-oneword-do
 print(df.head())
 ```
 
-## 🗂️ Sample rows
+## Sample rows
 
-| domain            | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                               |
-| ----------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| fudd.com          | resell    | —             | —             | high           | low    | 4      | —                                                       |
-| chica.com         | resell    | —             | —             | high           | low    | 5      | —                                                       |
-| hnrnp.com         | available | $17.29        | $17.29        | high           | low    | 5      | namesilo                                                |
-| achy.com          | resell    | $57,385       | $19.99        | high           | low    | 4      | Dynadot Inc                                             |
-| consolation.com   | premium   | $22.99        | —             | high           | low    | 11     | GoDaddy.com, LLC                                        |
-| namtap.com        | available | $17.29        | $17.29        | high           | high   | 6      | namesilo                                                |
-| yank.com          | resell    | $1,149,999.99 | $17.99        | high           | low    | 4      | GoDaddy Online Services Cayman Islands Ltd.             |
-| wharfs.com        | premium   | —             | —             | high           | low    | 6      | TurnCommerce, Inc. DBA NameBright.com                   |
-| npoess.com        | available | $17.29        | $17.29        | high           | high   | 6      | namesilo                                                |
-| amici.com         | resell    | $253,000      | $19.99        | high           | low    | 5      | Sea Wasp, LLC                                           |
-| smidgin.com       | premium   | —             | —             | high           | low    | 7      | GoDaddy.com, LLC                                        |
-| unisfa.com        | available | $9.08         | $10.18        | high           | high   | 6      | spaceship                                               |
-| curie.com         | resell    | $1,149,999.99 | $19.99        | high           | low    | 5      | Dynadot Inc                                             |
-| gelatines.com     | premium   | —             | —             | high           | low    | 9      | Annulet LLC                                             |
-| knaydel.com       | available | $9.08         | $10.18        | high           | low    | 7      | spaceship                                               |
-| forgo.com         | resell    | $89,964.50    | $19.99        | high           | low    | 5      | NameChild LLC                                           |
-| answerphones.com  | premium   | —             | —             | high           | low    | 12     | Annulet LLC                                             |
-| kthnxbi.com       | available | $17.29        | $17.29        | high           | low    | 7      | namesilo                                                |
-| chummy.com        | resell    | $269,473.75   | $19.99        | high           | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| selectiveness.com | premium   | —             | —             | high           | low    | 13     | Annulet LLC                                             |
+The first 20 rows of the file, in the file's order.
 
-These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
+| domain             | status    | purchase_price | renewal_price | attractiveness | demand | length |
+| ------------------ | --------- | -------------- | ------------- | -------------- | ------ | ------ |
+| chants.com         | resell    | —              | —             | high           | low    | 6      |
+| thymuses.com       | available | —              | —             | high           | low    | 8      |
+| accumulatio.com    | available | $12.99         | $17.99        | high           | low    | 11     |
+| lento.com          | resell    | —              | —             | high           | low    | 5      |
+| soars.com          | resell    | —              | —             | high           | low    | 5      |
+| alternatim.com     | available | —              | —             | high           | low    | 10     |
+| rapierlike.com     | available | $10.88         | $10.88        | high           | high   | 10     |
+| guayabo.com        | resell    | —              | —             | high           | low    | 7      |
+| liberate.com       | resell    | $1,149,999.99  | $19.99        | high           | low    | 8      |
+| troubling.com      | resell    | —              | —             | high           | low    | 9      |
+| reception.com      | resell    | —              | —             | high           | low    | 9      |
+| quatern.com        | resell    | —              | —             | high           | low    | 7      |
+| fille.com          | resell    | —              | —             | high           | low    | 5      |
+| sizzle.com         | resell    | —              | —             | high           | low    | 6      |
+| squishy.com        | resell    | —              | —             | high           | low    | 7      |
+| lukewarm.com       | resell    | —              | —             | high           | low    | 8      |
+| peephole.com       | resell    | —              | —             | high           | low    | 8      |
+| supercruise.com    | resell    | —              | —             | high           | low    | 11     |
+| descendants.com    | resell    | —              | —             | high           | low    | 11     |
+| highhandedness.com | available | $10.67         | —             | high           | high   | 15     |
 
-## 🚀 Next move
+## What is in the data
 
-You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+- `domain`: Fully qualified domain name.
+- `status`: Current acquisition state for the domain in the public extract.
+- `purchase_price`: Visible purchase price when available.
+- `renewal_price`: Visible renewal price when available.
+- `attractiveness`: Public composite naming band used as a decision-support signal.
+- `demand`: Public buyer-pressure band when available.
+- `length`: Character count without the TLD.
+- `registrar`: Registrar name when known.
+- `created_at`: Creation timestamp when known.
+- `expires_at`: Expiry timestamp when known.
 
-| GitHub extract          | Unique Domains                                       |
-| ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 5,009 live domains                                   |
-| Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 553 high-demand names under $2,500                   |
-| No persistence          | Radar, saved search, and alerts                      |
-| No naming workflow      | Radar from a naming brief, shortlist, and next steps |
+Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
-If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
+## Methodology
 
-[Create Radar](https://unique.domains/domains/tld/com?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_create_radar) · [Start a naming Radar](https://unique.domains/domains/tld/com?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_pricing)
+- The files hold 1,000 rows of the 4,993 names in the live list today.
+- Every row is a one-word domain name.
+- Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
-## 🧱 Field summary
+More in [METHODOLOGY.md](./METHODOLOGY.md).
 
-- `domain`, Fully qualified domain name.
-- `status`, Current acquisition state for the domain in the public extract.
-- `purchase_price`, Visible purchase price when available.
-- `renewal_price`, Visible renewal price when available.
-- `attractiveness`, Public composite naming band used as a decision-support signal.
-- `demand`, Public buyer-pressure band when available.
-- `length`, Character count without the TLD.
-- `registrar`, Registrar name when known.
-- `created_at`, Creation timestamp when known.
-- `expires_at`, Expiry timestamp when known.
-- `status_verified_at`, When status was last established against the registry. Null means never checked.
+## Update policy
 
-See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
+- The files are rebuilt every night from the same export.
+- The snapshot is the day of the rebuild; each row's status is the last one stored, not a reading of that day.
+- The files hold the public extract, not the whole live list.
 
-## ⚠️ Methodology and caveats
+## How to cite
 
-This set covers one-word .com domain names only — the most recognized and trusted domain extension. It ranges from ultra-short names like xix.com to descriptive words like keepfaith.com and asyouwish.com, giving a clear view of how pricing scales with length, clarity, and brand potential across the .com namespace.
+> Unique Domains, One-word .com domains, https://unique.domains/tld/com, CC BY 4.0
 
-- 18,322 one-word .com domains tracked in this set
-- Median ask near $143,958 across the selection
-- Mix of short brandables and descriptive one-word names
-- Updated daily for accurate pricing and availability
+Citation metadata: [CITATION.cff](./CITATION.cff). A DOI follows once Zenodo mints one.
 
-See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
+## Related datasets
 
-## 🔄 Update policy
+- [Every one-word domain](https://github.com/UniqueDomains/oneword-domains) (the hub)
 
-- This repository is refreshed regularly from the same export pipeline used for public dataset repos.
-- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
-- The README count targets the live catalog count from the public landing response when available.
-- The CSV and JSON files contain the public extract only and may not match the full live catalog size.
-- Stable historical references should be published via GitHub Releases outside this repository snapshot.
+One-word domains by ending:
 
-See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
+- [.ai](https://github.com/UniqueDomains/ai-oneword-domains), [page](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_tld_page)
+- [.io](https://github.com/UniqueDomains/io-oneword-domains), [page](https://unique.domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_tld_page)
+- [.app](https://github.com/UniqueDomains/app-oneword-domains), [page](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_tld_page)
+- [.co](https://github.com/UniqueDomains/co-oneword-domains), [page](https://unique.domains/tld/co?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_tld_page)
+- [.xyz](https://github.com/UniqueDomains/xyz-oneword-domains), [page](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_tld_page)
 
-## 📝 How to cite
+Lists:
 
-Suggested citation:
+- [Expired](https://github.com/UniqueDomains/expired-oneword-domains)
+- [Expiring](https://github.com/UniqueDomains/expiring-oneword-domains)
+- [Brandable](https://github.com/UniqueDomains/brandable-oneword-domains)
+- [Short](https://github.com/UniqueDomains/short-oneword-domains)
 
-> Unique Domains. *Available .COM One-Word Domains*. Version 2026-11-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+Every ending Unique Domains tracks: [unique.domains/tld](https://unique.domains/tld?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_hub).
 
-GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
+## About Unique Domains
 
+[Unique Domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
 
-## 🔗 Related links
+Questions and corrections: `kai@unique.domains`
 
-- [Live .COM page](https://unique.domains/domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_open_search)
-- [.COM TLD page](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_tld_page)
-- [All tracked TLDs](https://unique.domains/tld?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_tld_hub)
-- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_methodology)
-- [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=related_pricing)
-- [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_api_docs)
-- [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
-
-## 📬 Contact
-
-Questions, corrections, or partnership requests: `kai@unique.domains`
+[Start a Radar for .com names](https://unique.domains/tld/com?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=about)
