@@ -42,8 +42,8 @@ The first 20 rows of the file, in the file's order.
 | lukewarm.com       | resell    | —              | —             | high           | low    | 8      |
 | peephole.com       | resell    | —              | —             | high           | low    | 8      |
 | supercruise.com    | resell    | —              | —             | high           | low    | 11     |
-| descendants.com    | resell    | —              | —             | high           | low    | 11     |
 | highhandedness.com | available | $10.67         | —             | high           | high   | 15     |
+| necromanceress.com | available | $10.46         | $10.46        | high           | high   | 14     |
 
 ## What is in the data
 
