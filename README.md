@@ -1,6 +1,6 @@
 # Available .COM One-Word Domains
 
-3,395 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 26,934 .com sales in the last 12 months, median $758.
+3,395 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 26,923 .com sales in the last 12 months, median $758.
 
 Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
@@ -37,13 +37,13 @@ The first 20 rows of the file, in the file's order.
 | reception.com      | resell    | —              | —             | high           | low    | 9      |
 | quatern.com        | resell    | —              | —             | high           | low    | 7      |
 | fille.com          | resell    | —              | —             | high           | low    | 5      |
-| sizzle.com         | resell    | —              | —             | high           | low    | 6      |
 | squishy.com        | resell    | —              | —             | high           | low    | 7      |
 | lukewarm.com       | resell    | —              | —             | high           | low    | 8      |
 | peephole.com       | resell    | —              | —             | high           | low    | 8      |
 | supercruise.com    | resell    | —              | —             | high           | low    | 11     |
 | highhandedness.com | available | $10.67         | —             | high           | high   | 15     |
 | necromanceress.com | available | $10.46         | $10.46        | high           | high   | 14     |
+| scythelike.com     | available | $17.29         | $17.29        | high           | high   | 10     |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 4,833 names in the live list today.
+- The files hold 1,000 rows of the 4,755 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
