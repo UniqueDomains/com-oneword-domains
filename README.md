@@ -1,6 +1,6 @@
 # Available .COM One-Word Domains
 
-3,400 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 26,894 .com sales in the last 12 months, median $760.
+3,408 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,240 .com sales in the last 12 months, median $810.
 
 Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 4,546 names in the live list today.
+- The files hold 1,000 rows of the 4,528 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
@@ -104,6 +104,8 @@ Every ending Unique Domains tracks: [unique.domains/tld](https://unique.domains/
 ## About Unique Domains
 
 [Unique Domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
+
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
 Questions and corrections: `kai@unique.domains`
 
