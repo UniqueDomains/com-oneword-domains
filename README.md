@@ -2,9 +2,9 @@
 
 1,000 real .com one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [26,895 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [26,816 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-3,410 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,185 .com sales in the last 12 months, median $810.
+3,409 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,384 .com sales in the last 12 months, median $820.
 
 Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
@@ -66,16 +66,15 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 4,326 names in the live list today.
+- The files hold 1,000 rows of the 4,214 names in the live list today.
 - Every row is a one-word domain name.
-- Status and prices are the latest on record for each name, not a reading taken on the day of the rebuild.
+- Check a name before you act on it: a status or a price can change.
 
 More in [METHODOLOGY.md](./METHODOLOGY.md).
 
 ## Update policy
 
 - The files are rebuilt every night from the same export.
-- The snapshot is the day of the rebuild; each row's status is the latest on record for the name, not a reading of that day.
 - The files hold the public extract, not the whole live list.
 
 ## How to cite
@@ -107,7 +106,7 @@ Every ending Unique.domains tracks: [unique.domains/tld](https://unique.domains/
 
 ## About Unique.domains
 
-[Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
+[Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts.
 
 From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
