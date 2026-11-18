@@ -2,9 +2,9 @@
 
 1,000 real .com one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [26,709 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [26,560 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-3,412 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,508 .com sales in the last 12 months, median $841.
+3,415 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,493 .com sales in the last 12 months, median $841.
 
 Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
@@ -36,7 +36,6 @@ The first 20 rows of the file, in the file's order.
 | alternatim.com     | available | —              | —             | high           | low    | 10     |
 | rapierlike.com     | available | $10.88         | $10.88        | high           | high   | 10     |
 | guayabo.com        | resell    | —              | —             | high           | low    | 7      |
-| liberate.com       | resell    | $1,149,999.99  | $19.99        | high           | low    | 8      |
 | troubling.com      | resell    | —              | —             | high           | low    | 9      |
 | quatern.com        | resell    | —              | —             | high           | low    | 7      |
 | fille.com          | resell    | —              | —             | high           | low    | 5      |
@@ -48,6 +47,7 @@ The first 20 rows of the file, in the file's order.
 | necromanceress.com | available | $10.46         | $10.46        | high           | high   | 14     |
 | scythelike.com     | available | $17.29         | $17.29        | high           | high   | 10     |
 | achy.com           | resell    | $57,385        | $19.99        | high           | low    | 4      |
+| eulogizers.com     | available | —              | —             | high           | low    | 10     |
 
 ## What is in the data
 
@@ -66,7 +66,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 4,047 names in the live list today.
+- The files hold 1,000 rows of the 3,949 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
