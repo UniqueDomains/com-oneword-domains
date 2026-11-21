@@ -1,10 +1,12 @@
 # Available .COM One-Word Domains
 
-1,000 real .com one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
+**Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_home).
 
-Each word exists once on each ending. Unique.domains tracks [26,270 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+1,000 real .com one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-3,423 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,723 .com sales in the last 12 months, median $860.
+Each word exists once on each ending. Unique.domains tracks [26,251 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+
+3,446 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,780 .com sales in the last 12 months, median $865.
 
 Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 3,823 names in the live list today.
+- The files hold 1,000 rows of the 3,832 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
