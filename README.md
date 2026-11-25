@@ -4,9 +4,9 @@
 
 1,000 real .com one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [26,095 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [26,155 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-3,499 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,748 .com sales in the last 12 months, median $861.
+3,496 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,739 .com sales in the last 12 months, median $860.
 
 Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
@@ -48,7 +48,7 @@ The first 20 rows of the file, in the file's order.
 | peephole.com       | resell    | —              | —             | high           | low    | 8      |
 | supercruise.com    | resell    | —              | —             | high           | low    | 11     |
 | highhandedness.com | available | $19.99         | $19.99        | high           | high   | 15     |
-| necromanceress.com | available | $10.46         | $10.46        | high           | high   | 14     |
+| necromanceress.com | available | $9.08          | $10.18        | high           | high   | 14     |
 | scythelike.com     | available | $19.99         | $19.99        | high           | high   | 10     |
 | achy.com           | resell    | $57,385        | $19.99        | high           | low    | 4      |
 | eulogizers.com     | available | —              | —             | high           | low    | 10     |
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 3,649 names in the live list today.
+- The files hold 1,000 rows of the 3,624 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
@@ -112,7 +112,7 @@ Every ending Unique.domains tracks: [unique.domains/tld](https://unique.domains/
 
 [Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts.
 
-From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install domain-name-api`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
 Questions and corrections: `kai@unique.domains`
 
