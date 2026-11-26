@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-11-25
+## 2026-11-26
 
 - Rebuilt the public extract: 1,000 rows.
-- The live list holds 3,624 names today.
+- The live list holds 3,617 names today.
 
 For a stable reference, cite a dated GitHub Release with the CSV and JSON attached.
