@@ -4,9 +4,9 @@
 
 1,000 real .com one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [26,208 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [26,279 names on .com](https://unique.domains/tld/com); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-3,490 one-word .com names are free to register today. Cheapest first year $9.08 at Spaceship, renewal $10.18 there. 28,722 .com sales in the last 12 months, median $860.
+3,510 one-word .com names are free to register today, from $7.20 the first year at Name.com. Renewal there $22.65, three times the first year. 29,219 .com sales in the last 12 months, median $898.
 
 Live page: [unique.domains/tld/com](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=repo_com_oneword_domains&utm_content=top_tld_page)
 
@@ -48,10 +48,10 @@ The first 20 rows of the file, in the file's order.
 | supercruise.com    | resell    | —              | —             | high           | low    | 11     |
 | highhandedness.com | available | $19.99         | $19.99        | high           | high   | 15     |
 | necromanceress.com | available | $9.08          | $10.18        | high           | high   | 14     |
+| cangaceira.com     | available | $11.38         | —             | high           | low    | 10     |
 | scythelike.com     | available | $19.99         | $19.99        | high           | high   | 10     |
 | achy.com           | resell    | $57,385        | $19.99        | high           | low    | 4      |
 | eulogizers.com     | available | —              | —             | high           | low    | 10     |
-| abiliments.com     | available | $12.99         | $19.99        | high           | low    | 10     |
 
 ## What is in the data
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 3,617 names in the live list today.
+- The files hold 1,000 rows of the 3,623 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
